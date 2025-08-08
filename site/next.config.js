@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Stefan Kasm',
+    name: 'Stefans Kasm Repository',
     description: 'Store for Stefans Kasm Workspaces.',
     icon: '/img/logo.svg',
     listUrl: ' https://slewantoski.github.io/kasm-registry',
