@@ -24,7 +24,7 @@
     {
       "version": "1.17.x",
       "image": "slewantoski/kasm-rustdesk:latest",
-      "uncompressed_size_mb": 2074,
+      "uncompressed_size_mb": 3912,
       "available_tags": [
         "latest"
       ]

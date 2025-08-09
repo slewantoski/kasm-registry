@@ -1,7 +1,7 @@
 {
-  "description": "UltiMaker Cura is free, easy-to-use 3D printing software trusted by millions of users. Fine-tune your 3D model with 400+ settings for the best slicing and printing results.",
+  "description": "Opera is a multi-platform web browser developed by its namesake company Opera.",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "cura.png",
+  "image_src": "opera.png",
   "run_config": {
     "hostname": "kasm"
   },
@@ -14,18 +14,17 @@
     }
   },
   "categories": [
-    "Productivity",
-	"Multimedia"
+    "Browser"
   ],
-  "friendly_name": "UltiMaker Cura",
+  "friendly_name": "Opera",
   "architecture": [
     "amd64"
   ],
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "slewantoski/kasm-cura:latest",
-      "uncompressed_size_mb": 4823,
+      "image": "slewantoski/kasm-opera:latest",
+      "uncompressed_size_mb": 6185,
       "available_tags": [
         "latest"
       ]
