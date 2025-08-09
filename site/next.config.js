@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Stefans Kasm Repository',
     description: 'Store for Stefans Kasm Workspaces.',
     icon: '/img/logo.svg',
-    listUrl: ' https://slewantoski.github.io/kasm-registry',
+    listUrl: ' https://slewantoski.github.io/kasm-registry/',
     contactUrl: 'https://github.com/slewantoski/kasm-registry/issues',
   },
   reactStrictMode: true,
