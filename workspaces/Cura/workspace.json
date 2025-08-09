@@ -27,7 +27,7 @@
       "image": "slewantoski/kasm-cura:latest",
       "uncompressed_size_mb": 2074,
       "available_tags": [
-        "1.17.0-rolling-weekly"
+        "latest"
       ]
     }
   ]
