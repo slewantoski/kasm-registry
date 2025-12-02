@@ -23,7 +23,7 @@
   ],
   "compatibility": [
     {
-      "version": "1.17.x",
+      "version": "1.18.x",
       "image": "slewantoski/kasm-cura:latest",
       "uncompressed_size_mb": 4823,
       "available_tags": [
